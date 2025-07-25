@@ -44,7 +44,7 @@ export const discussionsData: TDiscussion[] = [
           {
             children: [
               {
-                text: "You suck. Bad. So bad.",
+                text: "Sup dawg. I heard you like comments.",
               },
             ],
             type: "p",
