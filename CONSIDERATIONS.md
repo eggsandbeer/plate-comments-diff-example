@@ -6,7 +6,7 @@ This document describes how comments are represented in the Slate editor value s
 
 ## Example
 
-- **Live Demo**: [Plate Comments Example App](https://plate-comments-diff-example-3r683zb3o-eggsandbeers-projects.vercel.app/)
+- **Live Demo**: [Plate Comments Example App](https://plate-comments-diff-example.vercel.app/)
 - **Source Code**: [GitHub Repository](https://github.com/eggsandbeer/plate-comments-diff-example)
 - **Data Structures**: [View example data in `/src/data`](https://github.com/eggsandbeer/plate-comments-diff-example/tree/main/src/data)
 
