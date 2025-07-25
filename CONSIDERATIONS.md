@@ -4,6 +4,12 @@
 
 This document describes how comments are represented in the Slate editor value structure, including the leaf node format and the relationship between editor marks and comment data.
 
+## Example
+
+- **Live Demo**: [Plate Comments Example App](https://plate-comments-diff-example-3r683zb3o-eggsandbeers-projects.vercel.app/)
+- **Source Code**: [GitHub Repository](https://github.com/eggsandbeer/plate-comments-diff-example)
+- **Data Structures**: [View example data in `/src/data`](https://github.com/eggsandbeer/plate-comments-diff-example/tree/main/src/data)
+
 ## Leaf Node Structure with Comments
 
 When text has comments, the leaf nodes in the Slate editor value contain specific marks that identify the comment:
@@ -96,7 +102,7 @@ interface TComment {
 
 ### TDiscussion Interface
 
-https://platejs.org/docs/discussion#tdiscussion
+- **Plate Discussion docs**: [Discussion](https://platejs.org/docs/discussion#tdiscussion)
 
 ```typescript
 interface TDiscussion {
