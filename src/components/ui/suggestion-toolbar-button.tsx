@@ -11,10 +11,7 @@ import { ToolbarButton } from "./toolbar";
 
 export function SuggestionToolbarButton() {
   const editor = useEditorRef();
-
-  const handleClick = () => {
-    editor.getTransforms(suggestionPlugin).suggestion.setDraft();
-  };
+  const handleClick = () => {};
 
   return (
     <ToolbarButton onClick={handleClick} tooltip="Suggestion">
